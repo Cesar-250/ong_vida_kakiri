@@ -30,16 +30,7 @@ En este proyecto se utilizó las siguientes herramientas:
 
 * [PHPMailer](https://example.com): Version 1234
 
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+
 
 ## Collaboration
 ***
@@ -62,6 +53,3 @@ To answer this question we use an unordered list:
 3. **Third question in bold**
 Answer of the third question with *italic words*.
 4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
